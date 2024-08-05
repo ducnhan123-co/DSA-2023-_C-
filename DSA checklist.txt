@@ -1,0 +1,37 @@
+1.CÁC THUẬT TOÁN SẮP XẾP
+-Sắp xếp chọn (SELECTIONSORT)
+-Sắp xếp chèn (INSERTTIONSORT)
+-Sắp xếp nổi bọt (BUBBLESORT)
+-Sắp xếp nhanh (QUICKSHORT)
+-Sắp xếp hoà nhập (MERGESORT)
+-Sắp xếp vun đống (HEAPSORT)
+-Sắp xếp đếm (COUNTINGSORT)
+-Sắp xếp theo cơ số (RADIXSORT)
+-Sắp xếp đóng gói (BUCKETSORT)
+
+2.CÁC THUẬT TOÁN TÌM KIẾM
+-Tìm kiếm tuần tự( tuyến tính) (LINEARSEARCH)
+-Tìm kiếm nhị phân(BINARYSEARCH)
+
+
+3.DANH SÁCH
+-Danh sách đặc./Mảng(CONDENSED LIST)
+-Danh sách liên kết(LINKED LIST)
++Danh sách liên kết đơn
++Danh sách liên kết đô/kép
+
+
+4.NGĂN XẾP (STACK)
+
+
+
+5.HÀNG ĐỢI (QUEUE)
+-Hàng đợi xoay vồng
+
+
+6.CẤU TRÚC CÂY 
+-Cây nhị phân
+-Cây nhị phân tìm kiếm (BST Tree)
+-Cây tìm kiếm cân bằng(AVL Tree)
+
+7.BĂNG BÀM 
